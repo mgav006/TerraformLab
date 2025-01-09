@@ -3,5 +3,4 @@
 *.tfstate.*
 ~/.aws/credentials
 .terraform/
-*.tfstate
-*.tfstate.*
+.terraform.lock.hcl
